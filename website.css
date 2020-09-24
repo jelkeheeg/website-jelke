@@ -1,0 +1,31 @@
+.wrapper {
+    max-width: 75%;
+    margin: 0px auto;
+    
+}
+body{
+    background-color:gray ;
+}
+h1{  text-align:center;
+    color :  white;
+   
+}
+A{
+    text-decoration: none;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+p{
+    color : black ;
+}
+
+header {
+    padding: 30px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 20px;
+  }
