@@ -1,33 +1,34 @@
-.wrapper{
+.wrapper {
     max-width: 75%;
     margin: 0px auto;
-    
-}
-body{
-    background-color:cadetblue ;
-    margin: 0;
-    padding: 0;
-    
-}
-h1{  text-align:center;
-    color :  white;
-    margin-top: 5px;
-   
-}
-A{
-    text-decoration: none;
-    
 }
 
-h2{
+body {
+    background-color: cadetblue;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+}
+
+A {
+    text-decoration: none;
+}
+
+h2 {
     text-align: center;
     color: black;
 }
-p{
-    color : black ;
+
+p {
+    color: black;
 }
 
-.header{
+.header {
     padding: 30px;
     text-align: center;
     background: rgb(73, 73, 73);
@@ -35,80 +36,73 @@ p{
     font-size: 20px;
     border: 5px solid black;
     margin-top: 0px;
-  }
+}
 
-  ul  {
+ul {
     list-style-type: none;
     margin: 40;
     padding: 80;
-    text-align : center;
-    
-  }
-
-  
- ul li{
-    
-     color : yellow;
-     display:inline;
-     list-style-type: none;
-     margin-left: 50px;
-     text-decoration:none;
-    
- }
- 
- 
-.footer{
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: rgb(241, 227, 227);
-  color: white;
-  text-align: center;
+    text-align: center;
 }
 
-
-.tekst1{
-    font-size: 20px;
-    border: 5px solid black;
-    background-color: rgb(55, 114, 50);
-    padding: 10px;
-position: fixed;
-left: 0px;
-right: 700px;
-top: 130px;
-width: 33%;
-color: white;
-text-align: center;
-} 
-
-.tekst2{
-    font-size: 20px;
-    border: 5px solid black;
-    background-color: rgb(55, 114, 50);
-    padding: 10px;
-position: fixed;
-left: 0px;
-top: 130px;
-width: 100%;
-color: white;
-text-align: center;
+ul li {
+    color: yellow;
+    display: inline;
+    list-style-type: none;
+    margin-left: 50px;
+    text-decoration: none;
 }
 
-.tekst3{
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(241, 227, 227);
+    color: white;
+    text-align: center;
+}
+
+.tekst1 {
     font-size: 20px;
     border: 5px solid black;
     background-color: rgb(55, 114, 50);
     padding: 10px;
-position: fixed;
-left: 850px;
-top: 130px;
-width: 33%;
-color: white;
-text-align: center;
-} 
+    position: fixed;
+    left: 0px;
+    right: 700px;
+    top: 130px;
+    width: 33%;
+    color: white;
+    text-align: center;
+}
 
-li a{
+.tekst2 {
+    font-size: 20px;
+    border: 5px solid black;
+    background-color: rgb(55, 114, 50);
+    padding: 10px;
+    position: fixed;
+    left: 0px;
+    top: 130px;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+.tekst3 {
+    font-size: 20px;
+    border: 5px solid black;
+    background-color: rgb(55, 114, 50);
+    padding: 10px;
+    position: fixed;
+    left: 850px;
+    top: 130px;
+    width: 33%;
+    color: white;
+    text-align: center;
+}
+
+li a {
     color: black;
 }
-
